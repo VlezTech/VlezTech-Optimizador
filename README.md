@@ -14,6 +14,6 @@ VlezTech-Optimizador necesita ejecutarse en modo administrador porque realiza aj
 ### Comando para ejecutarlo
 
 ```ps1
-irm "https://christitus.com/win" | iex
+irm "https://github.com/VlezTech/VlezTech-Optimizador/blob/main/lanzador.ps1" | iex
 ```
 
